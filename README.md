@@ -16,19 +16,18 @@ I'm a seasoned DevOps Engineer with over 10 years of experience, specializing in
 
 ## My Achievements
 
-🌟 **Increased Efficiency:** Engineered CI/CD pipelines that slashed deployment times, boosting productivity by [X]%.
+🌟 **Increased Efficiency:** Engineered CI/CD pipelines that slashed deployment times, boosting productivity by 80%.
   
-🎯 **Cloud Migration:** Led the migration of legacy systems to AWS, driving cost savings and unlocking business potential by [Y]%.
+🎯 **Cloud Migration:** Led the migration of legacy systems to AWS, driving cost savings and unlocking business potential by 60%.
   
 🏆 **Mentorship:** Committed to fostering growth, I've mentored junior DevOps engineers, contributing to their professional development.
 
 ## Let's Connect
 
-📧 Feel free to reach out via email at [Your Email Address] to discuss DevOps strategies and collaboration.
+📧 Feel free to reach out via email at mustufahasan@yahoo.com to discuss DevOps strategies and collaboration.
 
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) to stay updated on industry trends and opportunities.
+🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-hasan-47290950/) to stay updated on industry trends and opportunities.
 
-🌐 Explore more about me on [YourWebsite.com](https://www.yourwebsite.com/) to see the projects that define my journey.
 
 Dive into my repositories to discover how I've leveraged technology to drive business transformation and innovation.
 
